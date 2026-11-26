@@ -130,3 +130,17 @@ By making a contribution to this project, I certify that:
 (The Cylc Contributor Licence Agreement and Certificate of Origin is
 inspired that of [Rose](https://github.com/metomi/rose), which in turn was
 inspired by the Certificate of Origin used by Enyo and the Linux Kernel.)
+
+
+## AI & Developer Certificate of Origin Clarification
+
+AI agents MUST NOT add names to the list of contributors.
+
+Only humans can legally certify the Developer Certificate of Origin (DCO).
+
+The human submitter is responsible for:
+
+* Reviewing all AI-generated code
+* Ensuring compliance with licensing requirements
+* Adding their own name to the list of contributors
+* Taking full responsibility for the contribution
