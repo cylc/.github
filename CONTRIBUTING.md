@@ -135,7 +135,6 @@ inspired by the Certificate of Origin used by Enyo and the Linux Kernel.)
 ## AI & Developer Certificate of Origin Clarification
 
 AI agents MUST NOT add names to the list of contributors.
-
 Only humans can legally certify the Developer Certificate of Origin (DCO).
 
 The human submitter is responsible for:
